@@ -1,3 +1,4 @@
+
 //
 //  AppDelegate.swift
 //  Speedometer
@@ -88,6 +89,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
-
 }
+
 
